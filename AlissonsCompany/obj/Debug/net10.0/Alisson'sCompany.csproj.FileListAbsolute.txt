@@ -1,0 +1,14 @@
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\bin\Debug\net10.0\Alisson'sCompany.exe
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\bin\Debug\net10.0\Alisson'sCompany.deps.json
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\bin\Debug\net10.0\Alisson'sCompany.runtimeconfig.json
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\bin\Debug\net10.0\Alisson'sCompany.dll
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\bin\Debug\net10.0\Alisson'sCompany.pdb
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.AssemblyInfoInputs.cache
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.AssemblyInfo.cs
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.csproj.CoreCompileInputs.cache
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.dll
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\refint\Alisson'sCompany.dll
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.pdb
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\Alisson'sCompany.genruntimeconfig.cache
+D:\Alisson\Documents\Programação\Back_End\C_Sharp\Udemy\C#CompletoPOO\ExerciciosPropostos\Alisson'sCompany\Alisson'sCompany\obj\Debug\net10.0\ref\Alisson'sCompany.dll
