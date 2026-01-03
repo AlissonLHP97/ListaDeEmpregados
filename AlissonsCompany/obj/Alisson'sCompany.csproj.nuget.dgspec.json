@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\Alisson'sCompany\\Alisson'sCompany\\Alisson'sCompany.csproj": {}
+    "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Alisson'sCompany.csproj": {}
   },
   "projects": {
-    "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\Alisson'sCompany\\Alisson'sCompany\\Alisson'sCompany.csproj": {
+    "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Alisson'sCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\Alisson'sCompany\\Alisson'sCompany\\Alisson'sCompany.csproj",
+        "projectUniqueName": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Alisson'sCompany.csproj",
         "projectName": "Alisson'sCompany",
-        "projectPath": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\Alisson'sCompany\\Alisson'sCompany\\Alisson'sCompany.csproj",
+        "projectPath": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Alisson'sCompany.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\Alisson'sCompany\\Alisson'sCompany\\obj\\",
+        "outputPath": "D:\\Alisson\\Documents\\Programação\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

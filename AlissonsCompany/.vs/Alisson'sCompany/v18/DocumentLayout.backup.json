@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Alisson\\Documents\\Programa\u00E7\u00E3o\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439F7489-B364-5BD4-8477-38DCB45CD2F9}|Alisson\u0027sCompany.csproj|d:\\alisson\\documents\\programa\u00E7\u00E3o\\back_end\\c_sharp\\udemy\\c#completopoo\\exerciciospropostos\\alissonscompany\\alissonscompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439F7489-B364-5BD4-8477-38DCB45CD2F9}|Alisson\u0027sCompany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439F7489-B364-5BD4-8477-38DCB45CD2F9}|Alisson\u0027sCompany.csproj|d:\\alisson\\documents\\programa\u00E7\u00E3o\\back_end\\c_sharp\\udemy\\c#completopoo\\exerciciospropostos\\alissonscompany\\alissonscompany\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439F7489-B364-5BD4-8477-38DCB45CD2F9}|Alisson\u0027sCompany.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Alisson\\Documents\\Programa\u00E7\u00E3o\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Alisson\\Documents\\Programa\u00E7\u00E3o\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwC4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:46:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Alisson\\Documents\\Programa\u00E7\u00E3o\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Alisson\\Documents\\Programa\u00E7\u00E3o\\Back_End\\C_Sharp\\Udemy\\C#CompletoPOO\\ExerciciosPropostos\\AlissonsCompany\\AlissonsCompany\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:52:37.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
